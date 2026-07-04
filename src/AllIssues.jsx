@@ -24,6 +24,11 @@ const allIssues = [
     title: "Pathogenic WaterBodies",
     description: "Report dirty or contaminated water in public areas.",
     image: "/images/dirtywater.jpg"
+  },
+    {
+    title: "Pathogenic WaterBodies",
+    description: "Report dirty or contaminated water in public areas.",
+    image: "/images/dirtywater.jpg"
   }
 ];
 
